@@ -1,7 +1,7 @@
 title: Patrick Fong Portfolio
 email: patfmeche@gmail.com
 description: A portfolio of mechanical engineering projects.
-baseurl: ""
+baseurl: "https://mangohead12.github.io/patrickfong-portfolio"
 url: "https://mangohead12.github.io/patrickfong-portfolio"
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
