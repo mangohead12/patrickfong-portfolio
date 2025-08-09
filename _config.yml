@@ -1,4 +1,13 @@
 title: Patrick Fong Portfolio
-description: A portfolio of mechanical engineering projects
-theme: jekyll-theme-portfolio
-show_downloads: false
+email: patfmeche@gmail.com
+description: A portfolio of mechanical engineering projects.
+baseurl: ""
+url: "https://mangohead12.github.io/patrickfong-portfolio"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
