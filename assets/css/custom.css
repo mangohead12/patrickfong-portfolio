@@ -1,0 +1,12 @@
+.nav-button a {
+  background-color: #007acc; /* Button background */
+  color: white !important;   /* White text */
+  padding: 6px 12px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.nav-button a:hover {
+  background-color: #005f99; /* Darker on hover */
+}
