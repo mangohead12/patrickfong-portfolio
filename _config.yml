@@ -4,8 +4,15 @@ description: A portfolio of mechanical engineering projects.
 url: "https://mangohead12.github.io"      # no trailing slash
 baseurl: "/patrickfong-portfolio"          # repo name, with leading slash
 
+sass:
+  style: compressed
+include:
+  - assets/css/custom.css
+
 # Use Minimal Mistakes via remote_theme (remove any "theme:" line)
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+
 
 plugins:
   - jekyll-include-cache
