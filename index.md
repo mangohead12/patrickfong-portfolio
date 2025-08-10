@@ -4,11 +4,12 @@ title: "Patrick Fong"
 subtitle: "Mechanical Engineer • Robotics • Prototyping"
 header:
   overlay_color: "#000"
-  overlay_filter: "0.2"
-  overlay_image: /assets/images/hero.jpg   # add later if you want
+  overlay_filter: "0.3"
 intro:
-  - excerpt: "Welcome. Explore my projects and builds!"
+  - excerpt: "Welcome to my portfolio — a collection of projects in robotics, mechanical design, and prototyping."
 ---
 
 [View Projects]({{ '/projects/' | relative_url }})
+
+
 
