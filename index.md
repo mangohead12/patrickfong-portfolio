@@ -4,4 +4,4 @@ title: "Patrick Fong"
 subtitle: "Mechanical Engineer | Robotics | Prototyping"
 ---
 
-[View Projects](./projects/)
+[View Projects]({{ site.baseurl }}/projects/)
