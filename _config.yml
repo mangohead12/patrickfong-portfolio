@@ -1,22 +1,14 @@
 title: Patrick Fong Portfolio
-email: patfmeche@gmail.com
 description: A portfolio of mechanical engineering projects.
-url: "https://mangohead12.github.io"      # no trailing slash
-baseurl: "/patrickfong-portfolio"          # repo name, with leading slash
+email: patfmeche@gmail.com
 
+url: "https://mangohead12.github.io"   # no trailing slash
+baseurl: "/patrickfong-portfolio"       # repo name, leading slash
 
-sass:
-  style: compressed
-include:
-  - assets/css/custom.css
-
-# Use Minimal Mistakes via remote_theme (remove any "theme:" line)
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
-
+minimal_mistakes_skin: "default"
 
 plugins:
-  - jekyll-include-cache
   - jekyll-feed
   - jekyll-seo-tag
 
@@ -24,3 +16,4 @@ collections:
   projects:
     output: true
     permalink: /projects/:name/
+
