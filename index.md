@@ -5,9 +5,12 @@ subtitle: "Mechanical Engineer • Robotics • Prototyping"
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-intro:
-  - excerpt: "Welcome to my portfolio — a collection of projects in robotics, mechanical design, and prototyping."
----
+
+<img src="{{ '/assets/images/headshot.jpg' | relative_url }}" alt="Patrick Fong" style="width:180px; border-radius:50%; margin-bottom:15px;">
+
+Hi, I’m Patrick — a mechanical engineer specializing in robotics, mechatronics, and rapid prototyping.  
+I design and build systems from concept to hardware, focusing on practical, manufacturable solutions.
+
 
 [View Projects]({{ '/projects/' | relative_url }})
 
