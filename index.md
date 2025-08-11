@@ -11,10 +11,3 @@ header:
 [View Projects]({{ '/projects/' | relative_url }})
 
 
-
-{% include archive.html
-   title="Projects"
-   collection=site.projects
-   sort_by="date"
-   sort_order="reverse"
-   type="grid" %}
