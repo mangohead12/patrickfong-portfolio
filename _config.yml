@@ -3,7 +3,7 @@ description: A portfolio of mechanical engineering projects.
 email: patfmeche@gmail.com
 
 url: "https://mangohead12.github.io"   # no trailing slash
-baseurl: "/patrickfong-portfolio"       # repo name, leading slash
+baseurl: "/patrickfong-portfolio"      # repo name with leading slash
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
