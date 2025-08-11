@@ -1,10 +1,9 @@
----
 title: Patrick Fong Portfolio
 email: patfmeche@gmail.com
 description: A portfolio of mechanical engineering projects.
 url: "https://mangohead12.github.io"      # no trailing slash
 baseurl: "/patrickfong-portfolio"          # repo name, with leading slash
----
+
 
 sass:
   style: compressed
